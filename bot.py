@@ -221,7 +221,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 def main():
     # Replace with your real bot token
-    TOKEN = "YOUR_BOT_TOKEN_HERE"
+    TOKEN = "7618611098:AAFzWgXr5gCbkjWtB609Dzgrb10ra1Fx8-8"
 
     app = Application.builder().token(TOKEN).build()
 
